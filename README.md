@@ -1,0 +1,5 @@
+- 👋 Hi, I’m David!
+- 👀 I’m interested in brain-computer interfaces.
+- 🌱 I’m currently learning machine learning in python.
+- 💞️ I’m looking to collaborate on any ML projects
+- 📫 How to reach me on my email DavidConstantinNitu@gmail.com.
